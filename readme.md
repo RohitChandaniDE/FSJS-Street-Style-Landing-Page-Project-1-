@@ -13,12 +13,12 @@
 
 - The project is not mobile responsive.
 
-- This project can may vary depending on the screen of the device. Looks perfect mostly for large device and may vary for small laptop screens.
+- This project may vary depending on the screen of the device. Looks perfect for large device and may vary for small laptop screens.
 
 ***
 
 ```
- The live website link you can find [here]()
+ The live website link is [here](https://project-link-1.netlify.app/)
 ```
 ***
 ## ![Badge](https://img.shields.io/badge/FINAL-OUTPUT-yellow)
