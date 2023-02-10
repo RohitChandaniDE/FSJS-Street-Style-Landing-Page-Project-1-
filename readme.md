@@ -17,10 +17,12 @@
 
 ***
 
-```
- The live website link is [here](https://project-link-1.netlify.app/)
-```
+
+![Badge](https://img.shields.io/badge/PROJECT%20LINK-BELOW-lightgrey) 
+## [HERE](https://project-link-1.netlify.app/)
+
 ***
+
 ## ![Badge](https://img.shields.io/badge/FINAL-OUTPUT-yellow)
 
 ![Output](./Final%20output/Final%20output.png)
